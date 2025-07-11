@@ -63,5 +63,5 @@ Hackathons & Internships – Find relevant events and opportunities based on loc
 Industry Trends Map – Explore region-specific tech and hiring trends interactively.
 
 🔒 Secure by Design:
-API keys are safely stored in .streamlit/secrets.toml and never exposed publicly.
+API keys are safely stored in .streamlit/secrets.toml and never exposed publicly.You have to enter your own open ai api key.
 
