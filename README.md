@@ -1,7 +1,7 @@
 # Intel-Unnati-Project-Submission
 Consists of all the project files for intel unnati project submission:-
 
-1)🤖 Agentic AI Chatbot
+## **1) 🤖 Agentic AI Chatbot**
 
 Agentic AI Chatbot is an intelligent, dual-mode assistant that allows users to chat using either a basic LLM-powered chatbot or an advanced web-integrated chatbot. Built for flexibility, it supports multiple language models (like Groq, LLaMA, etc.) and offers up-to-date information retrieval via the Tavily Web Search API.
 
@@ -38,7 +38,8 @@ Chat: Ask questions and get intelligent, relevant responses.
 🔐 API Keys Required
 OPENAI_API_KEY, TAVILY_API_KEY, etc. (managed via .streamlit/secrets.toml or .env)
 
-2) Personal AI Coach (Extra Feature)
+
+## **2) Personal AI Coach (Extra Feature)**
 
 Github link:-  
 https://github.com/Chiku91/Personal-AI-Coach
