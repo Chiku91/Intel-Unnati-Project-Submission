@@ -68,6 +68,10 @@ API keys are safely stored in .streamlit/secrets.toml and never exposed publicly
 
 ### **3) 🎓 Student Activity Detection System – Tracking Disengagement and Suggesting Adaptive Teaching Methods**
 
+Github link:-
+
+https://github.com/Chiku91/Student-Activity-Detector
+
 This project is a real-time computer vision-based system designed to **monitor and analyze student activities in the classroom** using
 
 The system detects and visualizes multiple student behaviors such as **writing**, **raising hands**, **speaking**, **standing**, **head turning**, and even **teacher guidance**, with animated feedback messages to enhance interactivity.
