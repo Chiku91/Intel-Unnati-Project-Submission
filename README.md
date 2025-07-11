@@ -36,7 +36,9 @@ Select LLM: Pick your desired language model.
 Chat: Ask questions and get intelligent, relevant responses.
 
 🔐 API Keys Required
-OPENAI_API_KEY, TAVILY_API_KEY, etc. (managed via .streamlit/secrets.toml or .env).You have to enter your own groq api key and tavily api key.
+OPENAI_API_KEY, TAVILY_API_KEY, etc. (managed via .streamlit/secrets.toml or .env).
+
+You have to enter your own groq api key and tavily api key.
 
 
 ## **2) Personal AI Coach (Extra Feature)**
@@ -63,7 +65,9 @@ Hackathons & Internships – Find relevant events and opportunities based on loc
 Industry Trends Map – Explore region-specific tech and hiring trends interactively.
 
 🔒 Secure by Design:
-API keys are safely stored in .streamlit/secrets.toml and never exposed publicly.You have to enter your own open ai api key.
+API keys are safely stored in .streamlit/secrets.toml and never exposed publicly.
+
+You have to enter your own open ai api key.
 
 
 ### **3) 🎓 Student Activity Detection System – Tracking Disengagement and Suggesting Adaptive Teaching Methods**
