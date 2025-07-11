@@ -66,9 +66,9 @@ Industry Trends Map – Explore region-specific tech and hiring trends interacti
 API keys are safely stored in .streamlit/secrets.toml and never exposed publicly.You have to enter your own open ai api key.
 
 
-3)# 🎓 Student Activity Detection System
+### **3) 🎓 Student Activity Detection System – Tracking Disengagement and Suggesting Adaptive Teaching Methods**
 
-This project is a real-time computer vision-based system designed to **monitor and analyze student activities in the classroom** using **YOLOv5/v8**, **MediaPipe**, **OpenCV**, **PyTorch**, **audio input**, and **Streamlit**.
+This project is a real-time computer vision-based system designed to **monitor and analyze student activities in the classroom** using
 
 The system detects and visualizes multiple student behaviors such as **writing**, **raising hands**, **speaking**, **standing**, **head turning**, and even **teacher guidance**, with animated feedback messages to enhance interactivity.
 
