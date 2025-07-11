@@ -36,7 +36,7 @@ Select LLM: Pick your desired language model.
 Chat: Ask questions and get intelligent, relevant responses.
 
 🔐 API Keys Required
-OPENAI_API_KEY, TAVILY_API_KEY, etc. (managed via .streamlit/secrets.toml or .env)
+OPENAI_API_KEY, TAVILY_API_KEY, etc. (managed via .streamlit/secrets.toml or .env).You have to enter your own groq api key and tavily api key.
 
 
 ## **2) Personal AI Coach (Extra Feature)**
