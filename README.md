@@ -1,7 +1,7 @@
 # Intel-Unnati-Project-Submission
 Consists of all the project files for intel unnati project submission:-
 
-🤖 Agentic AI Chatbot
+1)🤖 Agentic AI Chatbot
 
 Agentic AI Chatbot is an intelligent, dual-mode assistant that allows users to chat using either a basic LLM-powered chatbot or an advanced web-integrated chatbot. Built for flexibility, it supports multiple language models (like Groq, LLaMA, etc.) and offers up-to-date information retrieval via the Tavily Web Search API.
 
@@ -14,6 +14,7 @@ Github link:-
 https://github.com/Chiku91/Agentic-AI-Chatbot
 
 ✨ Key Features
+
 🔹 Basic Chatbot Mode
 Answers user queries using the selected LLM's internal knowledge base.
 
