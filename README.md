@@ -114,8 +114,7 @@ Chat: Ask questions and get intelligent, relevant responses.
 🔐 API Keys Required
 OPENAI_API_KEY, TAVILY_API_KEY, etc. (managed via .streamlit/secrets.toml or .env).
 
-You have to enter your own groq api key and tavily api key.
-
+**You have to enter your own Groq API key and Tavily API key.**
 
 ## **3) Personal AI Coach (Extra Feature)**
 
@@ -144,7 +143,7 @@ ElevateU is a smart career coaching app built with Streamlit and OpenAI GPT-4 to
 🔒 Secure by Design:
 API keys are safely stored in .streamlit/secrets.toml and never exposed publicly.
 
-You have to enter your own open ai api key.
+**You have to enter your own OpenAI API key.**
 
 Setup Environment Variables
    
