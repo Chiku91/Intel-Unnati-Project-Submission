@@ -147,7 +147,7 @@ API keys are safely stored in .streamlit/secrets.toml and never exposed publicly
 
 Setup Environment Variables
    
-   -> Create a .streamlit/ secrets. toml
+   -> Create a .streamlit/ secrets. toml in your project folder
 
 <pre>
   openai_key="sk-xxxxxxxxxxxxxxxxxxxxxxxxx"
