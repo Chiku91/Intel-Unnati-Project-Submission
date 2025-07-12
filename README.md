@@ -1,6 +1,11 @@
 # Intel-Unnati-Project-Submission
 Consists of all the project files for intel unnati project submission:-
 
+Here are some video proofs of our implementation of different features of our platform:-
+
+https://drive.google.com/drive/u/0/folders/1O76TtiURBA7pXnJeGt-S3AJWQvu3UKLc
+
+
 ## **1)🤖 ClarifAi - AI-Powered Learning Assistant** <br> 
 
 **"Your AI Guru, Guiding You from Doubt to Wisdom, The Light of Knowledge in a Digital Avatar."**
