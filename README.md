@@ -79,6 +79,8 @@ Running the App
 
 ## **2) 🤖 Agentic AI Chatbot**
 
+To improve the accuracy of our chatbot above, we have also designed an agentic ai chatbot which improves the accuracy of textual queries by fetching answers from the llm knowledge base as well as fetching answers from the web using web search functionality.
+
 Agentic AI Chatbot is an intelligent, dual-mode assistant that allows users to chat using either a basic LLM-powered chatbot or an advanced web-integrated chatbot. Built for flexibility, it supports multiple language models (like Groq, LLaMA, etc.) and offers up-to-date information retrieval via the Tavily Web Search API.
 
 Render Deployment Link:-
