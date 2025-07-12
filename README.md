@@ -124,6 +124,7 @@ OPENAI_API_KEY, TAVILY_API_KEY, etc. (managed via .streamlit/secrets.toml or .en
 
 This additional feature, though not part of the original problem statement, has been implemented to make the platform a comprehensive AI-powered support system.
 It helps students and professionals analyze their strengths and weaknesses, get career insights, course recommendations, and explore hackathon and internship opportunities, especially tailored for college students.
+
 Github link:-  
 https://github.com/Chiku91/Personal-AI-Coach
    
