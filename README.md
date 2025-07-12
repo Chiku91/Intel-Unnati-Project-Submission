@@ -153,6 +153,12 @@ Setup Environment Variables
   openai_key="sk-xxxxxxxxxxxxxxxxxxxxxxxxx"
 </pre>
 
+Running the App
+
+<pre>
+  streamlit run streamlit_app.py
+</pre>
+
 ### **4) 🎓 Student Activity Detection System – Tracking Disengagement and Suggesting Adaptive Teaching Methods**
 
 Kaggle Dataset link:-
@@ -197,9 +203,11 @@ The system detects and visualizes multiple student behaviors such as **writing**
 
 ## 🖥️ Streamlit Interface
 
-Run the app via:
+Running the App
 
-bash
-streamlit run main.py
+<pre>
+  streamlit run main.py
+</pre>
+
 
 
