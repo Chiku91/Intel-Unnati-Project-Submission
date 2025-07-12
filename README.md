@@ -72,6 +72,12 @@ You have to enter your own open ai api key.
 
 ### **3) 🎓 Student Activity Detection System – Tracking Disengagement and Suggesting Adaptive Teaching Methods**
 
+Kaggle Dataset link:-
+
+https://www.kaggle.com/datasets/phamluhuynhmai/classroom-student-behaviors
+
+Took reference from a popular kaggle dataset consisting of tracking student behaviour in classrooms.Consists of analysing different facial expression analysis and body gesture analysis to detect disengagement and suggest adapative teaching methods
+
 Github link:-
 
 https://github.com/Chiku91/Student-Activity-Detector
