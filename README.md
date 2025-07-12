@@ -44,39 +44,6 @@ https://github.com/developer-Shaurya/ai_assistant
 
 - Text responses can be read aloud using `ElevenLabs API` for immersive interaction.</br>
 
-## 🛠️ Setup Instructions
-
-1. Clone the Repository
-<pre>
-git clone https://github.com/developer-Shaurya/ai_assistant.git
-cd ai_assistant
-</pre>
-2. Create a Virtual Environment
-<pre>
-  python -m venv venv
-  source venv/bin/activate      # On Windows: venv\Scripts\activate
-</pre>
-
-3. Install Dependencies
-<pre>
-  pip install -r requirements.txt
-</pre>
-
-4. Setup Environment Variables
-   Create a `.env` file:
-
-<pre>
-  GROQ_API_KEY=your_groq_api_key
-  ELEVEN_API_KEY=your_elevenlabs_api_key
-</pre>
-
-Running the App
-
-<pre>
-  streamlit run chatbot.py
-</pre>
-
-
 ## **2) 🤖 Agentic AI Chatbot**
 
 To improve the accuracy of our chatbot above, we have also designed an agentic ai chatbot which improves the accuracy of textual queries by fetching answers from the llm knowledge base as well as fetching answers from the web using web search functionality.
@@ -162,15 +129,6 @@ Setup Environment Variables
    
    -> Create a .streamlit/ secrets. toml in your project folder
 
-<pre>
-  openai_key="sk-xxxxxxxxxxxxxxxxxxxxxxxxx"
-</pre>
-
-Running the App
-
-<pre>
-  streamlit run streamlit_app.py
-</pre>
 
 ### **4) 🎓 Student Activity Detection System – Tracking Disengagement and Suggesting Adaptive Teaching Methods**
 
@@ -214,13 +172,7 @@ The system detects and visualizes multiple student behaviors such as **writing**
 | `turning_head.py` | 👀 Detects if students **turn their head sideways/backward** for more than 5 seconds. |
 | `main.py` | 🧠 Streamlit-based GUI to launch all the modules easily from a dropdown menu. |
 
-## 🖥️ Streamlit Interface
 
-Running the App
-
-<pre>
-  streamlit run main.py
-</pre>
 
 
 
