@@ -87,9 +87,9 @@ OPENAI_API_KEY, TAVILY_API_KEY, etc. (managed via .streamlit/secrets.toml or .en
 
 **You have to enter your own Groq API key and Tavily API key.**
 
-## **3) Personal AI Coach (Extra Feature)**
+## **3) 🚀 ElevateU – AI-Powered Career Coach (Extra Feature)**
 
-**✨ Extra Feature: AI Career Support Module**
+ElevateU is a smart career coaching app built with Streamlit and OpenAI GPT-4 to help students and professionals boost their careers with AI-driven insights.
 
 This additional feature, though not part of the original problem statement, has been implemented to make the platform a **comprehensive AI-powered support system**.  
 It helps students and working professionals **analyze their strengths and weaknesses**, get **career insights**, **course recommendations**, **format resume**, **skill building**, gving **mock interviews** and explore **hackathon and internship opportunities**, especially tailored for **college students**.
@@ -99,11 +99,6 @@ Github link:-
 https://github.com/Chiku91/Personal-AI-Coach
    
    
-**🚀 ElevateU – AI-Powered Career Coach**
-
-
-ElevateU is a smart career coaching app built with Streamlit and OpenAI GPT-4 to help students and professionals boost their careers with AI-driven insights.
-
 🔑 Key Features:
 
 -> **Resume Matcher** – Upload your resume and match it to job descriptions with a detailed gap analysis.
