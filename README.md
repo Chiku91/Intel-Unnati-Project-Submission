@@ -114,6 +114,13 @@ Chat: Ask questions and get intelligent, relevant responses.
 🔐 API Keys Required
 OPENAI_API_KEY, TAVILY_API_KEY, etc. (managed via .streamlit/secrets.toml or .env).
 
+ Setup Environment Variables
+   Create a .streamlit/ secrets. toml
+
+<pre>
+  openai_key="sk-xxxxxxxxxxxxxxxxxxxxxxxxx"
+</pre>
+
 You have to enter your own groq api key and tavily api key.
 
 
