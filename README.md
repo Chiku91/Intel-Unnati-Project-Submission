@@ -7,6 +7,10 @@ Consists of all the project files for intel unnati project submission:-
 
 ClarifAi is a Streamlit-based multifunctional AI chatbot tailored for learners, educators, and curious minds. It seamlessly integrates multimodal input, voice response, document summarization, diagram generation, and RAG-based document Q&A, all powered by modern LLMs like Groq and Mistral.
 
+Github link:-
+
+https://github.com/developer-Shaurya/ai_assistant
+
 ## 🚀 **Features**
 
 ### 🧠 Chatbot Powered by Groq LLMs</br>
