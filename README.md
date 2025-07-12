@@ -44,7 +44,7 @@ https://github.com/developer-Shaurya/ai_assistant
 
 - Text responses can be read aloud using `ElevenLabs API` for immersive interaction.</br>
 
-## **2) 🤖 Agentic AI Chatbot**
+## **2) 🤖 Agentic AI Chatbot (Extra Feature)**
 
 To enhance versatility of our main chatbot, we’ve integrated an Agentic AI Chatbot as a complementary feature. This side module is designed to handle general-purpose queries more effectively by leveraging both the LLM's internal knowledge base and real-time web search functionality.
 
