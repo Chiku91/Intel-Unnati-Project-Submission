@@ -102,9 +102,11 @@ Fetches real-time information from the internet using Tavily API.
 Useful for current events, news, or data not available in the LLM's training set.
 
 🔹 LLM Selector
+
 Choose your preferred model at runtime (e.g., Groq, LLaMA, etc.).
 
 🚀 How It Works
+
 Select Mode: Choose between Basic or Advanced Search.
 
 Select LLM: Pick your desired language model.
