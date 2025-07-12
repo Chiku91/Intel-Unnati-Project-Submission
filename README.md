@@ -169,7 +169,7 @@ Took reference from a popular kaggle dataset consisting of tracking student beha
 
 Github link:-
 
-https://github.com/Chiku91/Student-Activity-Detector
+https://github.com/developer-Shaurya/Student-Activity-Detector
 
 This project is a real-time computer vision-based system designed to **monitor and analyze student activities in the classroom** using
 
