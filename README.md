@@ -115,7 +115,8 @@ Chat: Ask questions and get intelligent, relevant responses.
 OPENAI_API_KEY, TAVILY_API_KEY, etc. (managed via .streamlit/secrets.toml or .env).
 
  Setup Environment Variables
-   Create a .streamlit/ secrets. toml
+   
+   -> Create a .streamlit/ secrets. toml
 
 <pre>
   openai_key="sk-xxxxxxxxxxxxxxxxxxxxxxxxx"
