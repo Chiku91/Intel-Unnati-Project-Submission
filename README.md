@@ -138,7 +138,7 @@ ElevateU is a smart career coaching app built with Streamlit and OpenAI GPT-4 to
 
 -> **Hackathons & Internships** – Find relevant events and opportunities based on location.
 
-- >**Industry Trends Map** – Explore region-specific tech and hiring trends interactively.
+-> **Industry Trends Map** – Explore region-specific tech and hiring trends interactively.
 
 🔒 Secure by Design:
 API keys are safely stored in .streamlit/secrets.toml and never exposed publicly.
