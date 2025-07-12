@@ -1,7 +1,79 @@
 # Intel-Unnati-Project-Submission
 Consists of all the project files for intel unnati project submission:-
 
-## **1) 🤖 Agentic AI Chatbot**
+1)# 🤖 **ClarifAi - AI-Powered Learning Assistant**<br>
+
+"Your AI Guru, Guiding You from Doubt to Wisdom. The Light of Knowledge in a Digital Avatar."
+
+Mentora is a Streamlit-based multifunctional AI chatbot tailored for learners, educators, and curious minds. It seamlessly integrates multimodal input, voice response, document summarization, diagram generation, and RAG-based document Q&A, all powered by modern LLMs like Groq and Mistral.
+
+## 🚀 **Features**
+
+### 🧠 Chatbot Powered by Groq LLMs</br>
+
+- Dynamic, human-like conversations.</br>
+- Option to choose models like `mistral-saba-24b` and `llama3-70b-8192`.
+
+### 🎙️ Multimodal Input (MultimodInput.py)</br>
+
+- Text: Regular chat input.</br>
+- Voice: `Whisper model` transcribes spoken queries.</br>
+- Image: `OCR-based` extraction using `Tesseract` for image-to-text questions.</br>
+
+### 📊 Concept Diagram Generator (diagramgen.py)</br>
+
+- Generate concept visualizations based on query context using LLM-driven classification and rendering libraries like `Graphviz` and `Matplotlib`.</br>
+- Dynamically rendered inside the Streamlit app with download options.</br>
+
+### 📄 PDF Summarizer (summarizer.py)</br>
+
+- Upload any PDF and get concise summaries using Groq's `llama3-8b-8192`.</br>
+- Built using `langchain`, `PyPDFLoader`, and `map_reduce summarization chains`.</br>
+
+### 📚 RAG-based Document Q&A (rag_module.py)</br>
+
+- Upload PDFs, DOCX, or TXT files.</br>
+- Query content semantically using `FAISS`, `Sentence Transformers`, and `Groq`.</br>
+- Context-aware response generation via `Retrieval-Augmented Generation`.</br>
+
+### 🔈 Voice Output</br>
+
+- Text responses can be read aloud using `ElevenLabs API` for immersive interaction.</br>
+
+## 🛠️ Setup Instructions
+
+1. Clone the Repository
+<pre>
+git clone https://github.com/developer-Shaurya/ai_assistant.git
+cd ai_assistant
+</pre>
+2. Create a Virtual Environment
+<pre>
+  python -m venv venv
+  source venv/bin/activate      # On Windows: venv\Scripts\activate
+</pre>
+
+3. Install Dependencies
+<pre>
+  pip install -r requirements.txt
+</pre>
+
+4. Setup Environment Variables
+   Create a `.env` file:
+
+<pre>
+  GROQ_API_KEY=your_groq_api_key
+  ELEVEN_API_KEY=your_elevenlabs_api_key
+</pre>
+
+Running the App
+
+<pre>
+  streamlit run chatbot.py
+</pre>
+
+
+## **2) 🤖 Agentic AI Chatbot**
 
 Agentic AI Chatbot is an intelligent, dual-mode assistant that allows users to chat using either a basic LLM-powered chatbot or an advanced web-integrated chatbot. Built for flexibility, it supports multiple language models (like Groq, LLaMA, etc.) and offers up-to-date information retrieval via the Tavily Web Search API.
 
@@ -41,7 +113,7 @@ OPENAI_API_KEY, TAVILY_API_KEY, etc. (managed via .streamlit/secrets.toml or .en
 You have to enter your own groq api key and tavily api key.
 
 
-## **2) Personal AI Coach (Extra Feature)**
+## **3) Personal AI Coach (Extra Feature)**
 
 Github link:-  
 https://github.com/Chiku91/Personal-AI-Coach
@@ -71,7 +143,7 @@ API keys are safely stored in .streamlit/secrets.toml and never exposed publicly
 You have to enter your own open ai api key.
 
 
-### **3) 🎓 Student Activity Detection System – Tracking Disengagement and Suggesting Adaptive Teaching Methods**
+### **4) 🎓 Student Activity Detection System – Tracking Disengagement and Suggesting Adaptive Teaching Methods**
 
 Kaggle Dataset link:-
 
