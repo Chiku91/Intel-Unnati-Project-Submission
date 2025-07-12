@@ -92,7 +92,7 @@ OPENAI_API_KEY, TAVILY_API_KEY, etc. (managed via .streamlit/secrets.toml or .en
 **✨ Extra Feature: AI Career Support Module**
 
 This additional feature, though not part of the original problem statement, has been implemented to make the platform a **comprehensive AI-powered support system**.  
-It helps students and professionals **analyze their strengths and weaknesses**, get **career insights**, **course recommendations**, **format resume**, **skill building**, gving **mock interviews** and explore **hackathon and internship opportunities**, especially tailored for **college students**.
+It helps students and working professionals **analyze their strengths and weaknesses**, get **career insights**, **course recommendations**, **format resume**, **skill building**, gving **mock interviews** and explore **hackathon and internship opportunities**, especially tailored for **college students**.
 
 
 Github link:-  
