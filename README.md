@@ -77,7 +77,7 @@ Kaggle Dataset link:-
 
 https://www.kaggle.com/datasets/phamluhuynhmai/classroom-student-behaviors
 
-Took reference from a popular kaggle dataset consisting of tracking student behaviour in classrooms.Consists of analysing different facial expression analysis and body gesture analysis to detect disengagement and suggest adapative teaching methods
+Took reference from a popular kaggle dataset consisting of tracking student behaviour in classrooms. Consists of analysing different facial expression analysis and body gesture analysis to detect disengagement and suggest adapative teaching methods.
 
 Github link:-
 
