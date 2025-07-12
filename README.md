@@ -114,14 +114,6 @@ Chat: Ask questions and get intelligent, relevant responses.
 🔐 API Keys Required
 OPENAI_API_KEY, TAVILY_API_KEY, etc. (managed via .streamlit/secrets.toml or .env).
 
- Setup Environment Variables
-   
-   -> Create a .streamlit/ secrets. toml
-
-<pre>
-  openai_key="sk-xxxxxxxxxxxxxxxxxxxxxxxxx"
-</pre>
-
 You have to enter your own groq api key and tavily api key.
 
 
@@ -154,6 +146,13 @@ API keys are safely stored in .streamlit/secrets.toml and never exposed publicly
 
 You have to enter your own open ai api key.
 
+Setup Environment Variables
+   
+   -> Create a .streamlit/ secrets. toml
+
+<pre>
+  openai_key="sk-xxxxxxxxxxxxxxxxxxxxxxxxx"
+</pre>
 
 ### **4) 🎓 Student Activity Detection System – Tracking Disengagement and Suggesting Adaptive Teaching Methods**
 
