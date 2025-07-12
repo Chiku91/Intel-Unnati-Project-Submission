@@ -1,8 +1,7 @@
 # Intel-Unnati-Project-Submission
 Consists of all the project files for intel unnati project submission:-
 
-**1)🤖 ClarifAi - AI-Powered Learning Assistant** <br> - 
-
+**1)🤖 ClarifAi - AI-Powered Learning Assistant** <br> 
 **"Your AI Guru, Guiding You from Doubt to Wisdom, The Light of Knowledge in a Digital Avatar."**
 
 ClarifAi is a Streamlit-based multifunctional AI chatbot tailored for learners, educators, and curious minds. It seamlessly integrates multimodal input, voice response, document summarization, diagram generation, and RAG-based document Q&A, all powered by modern LLMs like Groq and Mistral.
