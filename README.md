@@ -50,6 +50,7 @@ https://github.com/Chiku91/Personal-AI-Coach
 ElevateU is a smart career coaching app built with Streamlit and OpenAI GPT-4 to help students and professionals boost their careers with AI-driven insights.
 
 🔑 Key Features:
+
 -> Resume Matcher – Upload your resume and match it to job descriptions with a detailed gap analysis.
 
 -> Skill Builder – Get personalized learning paths based on your resume.
