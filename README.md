@@ -1,7 +1,7 @@
 # Intel-Unnati-Project-Submission
 Consists of all the project files for intel unnati project submission:-
 
-1) 🤖 **ClarifAi - AI-Powered Learning Assistant**<br>
+**1)🤖 **ClarifAi - AI-Powered Learning Assistant**<br>
 
 **Your AI Guru, Guiding You from Doubt to Wisdom. The Light of Knowledge in a Digital Avatar.**
 
